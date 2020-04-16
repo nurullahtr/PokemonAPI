@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\DotNetCore\\PokemonApi\\PokemonApi.csproj": {}
+    "c:\\Repos\\DotNetCore\\PokemonApi\\PokemonApi.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\DotNetCore\\PokemonApi\\PokemonApi.csproj": {
+    "c:\\Repos\\DotNetCore\\PokemonApi\\PokemonApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\DotNetCore\\PokemonApi\\PokemonApi.csproj",
+        "projectUniqueName": "c:\\Repos\\DotNetCore\\PokemonApi\\PokemonApi.csproj",
         "projectName": "PokemonApi",
-        "projectPath": "C:\\Repos\\DotNetCore\\PokemonApi\\PokemonApi.csproj",
+        "projectPath": "c:\\Repos\\DotNetCore\\PokemonApi\\PokemonApi.csproj",
         "packagesPath": "C:\\Users\\nurul\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\DotNetCore\\PokemonApi\\obj\\",
+        "outputPath": "c:\\Repos\\DotNetCore\\PokemonApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nurul\\AppData\\Roaming\\NuGet\\NuGet.Config",

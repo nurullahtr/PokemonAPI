@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kzwA6oduA2Ldkpch2ineCT+3Y6eAjj8LIYjLGKGZbFuTActoN4zbv/UyW2tIJZDFfQ2ogjnrw9FAq26tdHH7og==",
+  "dgSpecHash": "/VttWGRZHN2lAVCLAHfb5Ufc382f+jxhuUJoWnRRp0799v+urSYegnT14uf/McZaH3LH1yzt7bvY81RjnQAA9A==",
   "success": true,
-  "projectFilePath": "C:\\Repos\\DotNetCore\\PokemonApi\\PokemonApi.csproj",
+  "projectFilePath": "c:\\Repos\\DotNetCore\\PokemonApi\\PokemonApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nurul\\.nuget\\packages\\dnsclient\\1.2.0\\dnsclient.1.2.0.nupkg.sha512",
     "C:\\Users\\nurul\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
